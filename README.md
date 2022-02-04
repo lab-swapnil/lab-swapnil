@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swapnil-s-lab
+- 👋 Hi, I’m @swapnil
 - 👀 I’m interested in doing experiments
 - 🌱 I’m currently learning Android
 - 📫 Contact me : lab.swapnil@gmail.com
