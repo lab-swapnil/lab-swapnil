@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @swapnil
-- 👀 I’m interested in doing experiments
+- 👋 Hi, I’m swapnil
+- 👀 I’m interested in doing programming experiments
 - 🌱 I’m currently learning Android
 - 📫 Contact me : lab.swapnil@gmail.com
 
